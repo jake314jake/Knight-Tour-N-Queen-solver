@@ -1,0 +1,1 @@
+java  -jar  KnightTour1.1.jar
